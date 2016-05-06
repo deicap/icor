@@ -1,0 +1,18 @@
+<IfModule mod_rewrite.c>
+ 
+	RewriteEngine On
+	RewriteBase /
+
+	# Removes trailing slashes
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^(.+)/$ $1 [L,R=301]
+
+	RewriteCond %{HTTP_HOST} !^(www|icor) [NC]
+	RewriteRule ^(.*)$ http://www.icor.lt/$1 [L,R=301]
+
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^(.*)$ index.php/$1 [L]
+ 
+</IfModule>
+ 

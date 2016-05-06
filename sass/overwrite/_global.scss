@@ -1,0 +1,101 @@
+body {
+	font-weight: 300;
+	min-width: 320px;
+}
+
+.ie-warning {
+	background: #ff5500;
+	color: #fff;
+	position: relative;
+	padding: 30px;
+	font-size: 18px;
+	position: relative;
+	a {
+		color: inherit;
+		text-decoration: underline;
+	}
+}
+
+a, input, select {
+	outline: none !important;
+}
+
+.container-fixed {
+	max-width: 980px;
+	position: relative;
+	margin: 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+	
+	@media (max-width: $screen-md - 1) {
+		padding-left: 22.5px;
+		padding-right: 22.5px;
+	}
+	
+}
+
+.container-fixed-narrow {
+
+	padding-left: 70px;
+	padding-right: 70px;	
+	
+	@media (max-width: $screen-md - 1) {
+		padding-left: 40px;
+		padding-right: 40px;	
+	}
+	
+}
+
+[class^="section-"] {
+	padding: 60px 0;
+}
+
+.section-style1 {
+	background: #fff;
+}
+
+.section-style2 {
+	background: $alt-bg;
+}
+ 
+.section-style3 {
+	background:  $alt-bg2;
+}
+
+.text-h1 {
+	font-size: $font-size-h1;
+}
+
+.text-h2 {
+	font-size: $font-size-h2;
+}
+
+@media (max-width: $screen-md - 1) {
+
+	h2 {
+		font-size: $font-size-h2 * 0.75;
+	}
+	
+}
+
+
+.text-h3 {
+	font-size: $font-size-h3;
+	@media (max-width: $screen-md - 1) {
+		font-size: $font-size-large;
+	}
+}
+
+.text-value {
+	font-size: 40px;
+	font-weight: 900;
+}
+
+.text-unit {
+	font-size: 14px;
+	font-weight: 900;
+	line-height: 1;
+}
+
+
+

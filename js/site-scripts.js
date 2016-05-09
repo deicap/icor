@@ -3,14 +3,12 @@ $(document).ready(function(){
 	
 	$('.flexslider').flexslider({
 		
-		'pauseOnHover': true,
-		'directionNav': false,
+		'slideshowSpeed': 3500,
 		'startAt': 0,
 		
 		after: function(slider){
 			
 			$('.slide-expanded').removeClass('slide-expanded');
-			
 			$('.flexslider').attr('current-slide', slider.currentSlide);
 			
 		}
@@ -25,7 +23,13 @@ $(document).ready(function(){
 		ev.preventDefault();
 
 		$(this).parent().parent().parent().parent().parent().toggleClass('slide-expanded');
-		
+
+		if ($(this).parent().parent().parent().parent().parent().hasClass('slide-expanded')) {
+			$('.flexslider').flexslider("pause");
+		} else {
+			$('.flexslider').flexslider("play");
+		}
+
 	});
 	
 	

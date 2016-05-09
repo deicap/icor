@@ -1,12 +1,14 @@
 <?php
-
+	
+	$ip_info = ip_info();
+	
+	// print_r ($ip_info);
+	
 	$_default_lang = 'lt';
 
 	$_url = isset($_SERVER['REDIRECT_URL']) ? trim(str_replace('/index.php', '', $_SERVER['REDIRECT_URL']), '/ ') : '/';
 
-	if ($_url == '/' || $_url == 'index.php') {
-		
-		$ip_info = ip_info();
+	if ($_url == '' || $_url == '/' || $_url == 'index.php') {
 
 		if (isset($ip_info['country_code']) && $ip_info['country_code'] == 'LT') {
 
@@ -14,7 +16,7 @@
 			header("Location: /lt");
 			exit();
 						
-		} else if (isset($ip_info['country_code']) && $ip_info['country_code'] == 'RU') {
+		} else if (isset($ip_info['country_code']) && in_array($ip_info['country_code'], array('RU', 'AM', 'AZ', 'BY', 'GE', 'UA', 'UZ', 'TM', 'TJ', 'KZ', 'KG'))) {
 			
 			header("HTTP/1.1 301 Moved Permanently"); 
 			header("Location: /ru");

@@ -550,6 +550,11 @@
 			
 			&.slide-cell-titles {
 				vertical-align: middle;
+				
+				@media (max-height: 480px) {
+					height: 350px;
+				}
+				
 				padding-top: 30px;
 				@media (max-width: $screen-md - 1) {
 					padding-top: 75px;
@@ -574,6 +579,10 @@
 				&.slide-cell-titles {
 					
 					vertical-align: bottom;
+					
+					@media (max-height: 480px) {
+						height: auto;
+					}
 					
 					@media (max-width: $screen-md - 1) {
 						padding-top: 105px;

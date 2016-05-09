@@ -1,10 +1,10 @@
 <?php
 
 	$_default_lang = 'lt';
-	
-	$_url = isset($_SERVER['REDIRECT_URL']) ? trim($_SERVER['REDIRECT_URL'], '/ ') : '/';
 
-	if ($_url == '/') {
+	$_url = isset($_SERVER['REDIRECT_URL']) ? trim(str_replace('/index.php', '', $_SERVER['REDIRECT_URL']), '/ ') : '/';
+
+	if ($_url == '/' || $_url == 'index.php') {
 		
 		$ip_info = ip_info();
 

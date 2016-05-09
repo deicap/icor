@@ -1977,12 +1977,18 @@ p, h1, h2, h3, h4, h5, h6 {
       .slide-tbl > * > *.slide-cell-titles {
         vertical-align: middle;
         padding-top: 30px; }
+  @media (max-height: 480px) {
+    .slide-tbl > * > *.slide-cell-titles {
+      height: 350px; } }
   @media (max-width: 991px) {
     .slide-tbl > * > *.slide-cell-titles {
       padding-top: 75px; } }
 
 .slide-expanded .slide-tbl > * > *.slide-cell-titles {
   vertical-align: bottom; }
+@media (max-height: 480px) {
+  .slide-expanded .slide-tbl > * > *.slide-cell-titles {
+    height: auto; } }
 @media (max-width: 991px) {
   .slide-expanded .slide-tbl > * > *.slide-cell-titles {
     padding-top: 105px; } }

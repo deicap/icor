@@ -13,7 +13,7 @@
 		
 		
 		
-		<!---------------- slide start ----------------->
+		<!-- slide start -->
 		<li>
 			<div class="slide-item slide-icor">
 				
@@ -48,12 +48,12 @@
 			</div>
 		</li>
 		
-		<!---------------- slide end ----------------->
+		<!-- slide end -->
 		
 		
 		
 		
-		<!---------------- slide start ----------------->
+		<!-- slide start -->
 		<li>
 			<div class="slide-item slide-cityservice">
 				
@@ -159,7 +159,7 @@
 			</div>
 		</li>
 		
-		<!---------------- slide end ----------------->
+		<!-- slide end -->
 		
 		
 		
@@ -170,7 +170,7 @@
 		
 		
 
-		<!---------------- slide start ----------------->
+		<!-- slide start -->
 		<li>
 			<div class="slide-item slide-axioma">
 				
@@ -236,7 +236,7 @@
 															<strong class="center-block">Veiklos geografija</strong>
 															<span class="center-block">
 																<span class="trow trow-vmiddle">
-																	<span class="text-value">40</span>
+																	<span class="text-value">40+</span>
 																	<span class="text-unit">šalių</span>
 																</span>
 															</span>
@@ -276,7 +276,7 @@
 			</div>
 		</li>
 		
-		<!---------------- slide end ----------------->
+		<!-- slide end -->
 		
 		
 		
@@ -284,7 +284,7 @@
 		
 
 
-		<!---------------- slide start ----------------->
+		<!-- slide start -->
 		<li>
 			<div class="slide-item slide-realco">
 				
@@ -385,7 +385,7 @@
 			</div>
 		</li>
 		
-		<!---------------- slide end ----------------->
+		<!-- slide end -->
 		
 		
 		
@@ -395,7 +395,7 @@
 		
 		
 
-		<!---------------- slide start ----------------->
+		<!-- slide start -->
 		<li>
 			<div class="slide-item slide-oilead">
 				
@@ -501,7 +501,7 @@
 			</div>
 		</li>
 		
-		<!---------------- slide end ----------------->
+		<!-- slide end -->
 		
 		
 		

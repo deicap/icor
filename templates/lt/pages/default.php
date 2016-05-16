@@ -49,7 +49,7 @@
 								<strong class="center-block">Veiklos geografija</strong>
 								<span class="center-block">
 									<span class="trow trow-vmiddle">
-										<span class="text-primary text-value">40</span>
+										<span class="text-primary text-value">40+</span>
 										<span class="text-primary text-unit">šalių</span>
 									</span>
 								</span>

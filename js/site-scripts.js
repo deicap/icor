@@ -45,5 +45,11 @@ $(document).ready(function(){
 		
 	});
 	
+	setTimeout(function(){
+		
+		$('html').removeClass('loading');
+		
+	}, 250);
+	
 	
 });

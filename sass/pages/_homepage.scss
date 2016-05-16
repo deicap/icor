@@ -1,4 +1,15 @@
 
+
+a.list-icon {
+
+	@include opacity(1);
+	@include transition(0.35s all);
+	&:hover {
+		@include opacity(0.8);
+	}
+	
+}
+
 .section-values {
 
 	.list-icon  {
@@ -67,10 +78,15 @@
 		}
 	}
 	
-	@media (max-width: $screen-md - 1) {
-	
-		.list-unstyled {
+	.list-unstyled {
 			
+		a {
+			color: inherit !important;
+		}
+		
+		@media (max-width: $screen-md - 1) {
+		
+
 			> * {
 				
 				margin-bottom: 45px;
@@ -78,9 +94,9 @@
 			}
 			
 			margin-bottom: -45px;
-			
+
 		}
-	
+		
 	}
 	
 }

@@ -87,27 +87,27 @@
 				<ul class="list-unstyled row">
 					
 					<li class="text-center col-xs-12 col-sm-6 col-md-3">
-						<span class="center-block"><span class="list-icon img-icon-cityservice"></span></span>
-						<strong class="center-block">Komunalinės paslaugos</strong>
-						<span class="center-block text-muted">„City Service“</span>
+						<span class="center-block"><a class="list-icon img-icon-cityservice" href="http://www.lrytas.lt/"></a></span>
+						<strong class="center-block"><a href="/">Komunalinės paslaugos</a></strong>
+						<span class="center-block text-muted"><a href="/">„City Service“</a></span>
 					</li>
 					
 					<li class="text-center col-xs-12 col-sm-6 col-md-3">
-						<span class="center-block"><span class="list-icon img-icon-axioma"></span></span>
-						<strong class="center-block">Pramonė ir energetika</strong>
-						<span class="center-block text-muted">„Axis Industries“ </span>
+						<span class="center-block"><a class="list-icon img-icon-axioma" href="http://www.lrytas.lt/"></a></span>
+						<strong class="center-block"><a href="/">Pramonė ir energetika</a></strong>
+						<span class="center-block text-muted"><a href="/">„Axis Industries“</a></span>
 					</li>
 					
 					<li class="text-center col-xs-12 col-sm-6 col-md-3">
-						<span class="center-block"><span class="list-icon img-icon-realco"></span></span>
-						<strong class="center-block">Nekilnojamasis turtas</strong>
-						<span class="center-block text-muted">„Realco“</span>
+						<span class="center-block"><a class="list-icon img-icon-realco" href="http://www.lrytas.lt/"></a></span>
+						<strong class="center-block"><a href="/">Nekilnojamasis turtas</a></strong>
+						<span class="center-block text-muted"><a href="/">„Realco“</a></span>
 					</li>
 					
 					<li class="text-center col-xs-12 col-sm-6 col-md-3">
-						<span class="center-block"><span class="list-icon img-icon-oilead"></span></span>
-						<strong class="center-block">Nafta</strong>
-						<span class="center-block text-muted">OiLead</span>
+						<span class="center-block"><a class="list-icon img-icon-oilead" href="http://www.lrytas.lt/"></a></span>
+						<strong class="center-block"><a href="/">Nafta</a></strong>
+						<span class="center-block text-muted"><a href="/">OiLead</a></span>
 					</li>
 					
 				</ul>

@@ -22,7 +22,7 @@
 						<div>
 							<div class="slide-cell-titles">
 						
-								<div class="slide-logo slide-logo-icor"></div>
+								<a href="http://www.delfi.lt/" class="slide-logo slide-logo-icor"></a>
 								<div class="slide-slogan">Pralenkti rytojų. Šiandien.</div>
 						
 							</div>
@@ -63,7 +63,7 @@
 							<div class="slide-cell-titles">
 						
 								<div class="slide-subtitle">ICOR grupės įmonė</div>
-								<div class="slide-logo slide-logo-cityservice"></div>
+								<a href="http://www.delfi.lt/" class="slide-logo slide-logo-cityservice"></a>
 								<div class="slide-slogan">In Service Of Your Property</div>
 						
 							</div>
@@ -180,7 +180,7 @@
 							<div class="slide-cell-titles">
 						
 								<div class="slide-subtitle">ICOR grupės įmonė</div>
-								<div class="slide-logo slide-logo-axioma"></div>
+								<a href="http://www.delfi.lt/" class="slide-logo slide-logo-axioma"></a>
 								<div class="slide-slogan">Produktai, irodę savo efektyvumą</div>
 						
 							</div>
@@ -294,7 +294,7 @@
 							<div class="slide-cell-titles">
 						
 								<div class="slide-subtitle">ICOR grupės įmonė</div>
-								<div class="slide-logo slide-logo-realco"></div>
+								<a href="http://www.delfi.lt/"  class="slide-logo slide-logo-realco"></a>
 								<div class="slide-slogan">Patikimas. Visada.</div>
 						
 							</div>
@@ -405,7 +405,7 @@
 							<div class="slide-cell-titles">
 						
 								<div class="slide-subtitle">ICOR grupės įmonė</div>
-								<div class="slide-logo slide-logo-oilead"></div>
+								<a href="http://www.delfi.lt/" class="slide-logo slide-logo-oilead"></a>
 								<div class="slide-slogan">Tarptautinė prekyba naftos produktais</div>
 						
 							</div>

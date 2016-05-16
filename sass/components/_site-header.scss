@@ -195,11 +195,23 @@
 		content: " ";
 		background: transparent;
 		background: rgba(0,0,0,0.5);
+		@include transition(background 0.7s linear 0.5s);
 	}
 	
 }
 
+.loading {
 
+	.slide-item {
+
+		&:before {
+			
+			background: rgba(0,0,0,1);
+		}
+		
+	}
+
+}
 
 
 
@@ -282,19 +294,31 @@
 
 
 .slide-logo {
-
+	
+	display: block;
 	background: transparent url() no-repeat center center / contain;
 	max-width: 400px;
 	margin: 25px auto 25px auto;
 	position: relative;
-	
-	@include transition(all 0.35s linear 0.7s);
+
+	-webkit-transition: all 0.35s linear 0.7s, opacity 0.35s linear 0s;
+	-moz-transition: all 0.35s linear 0.7s, opacity 0.35s linear 0s;
+	-ms-transition: all 0.35s linear 0.7s, opacity 0.35s linear 0s; /* IE10 is actually unprefixed */
+	-o-transition: all 0.35s linear 0.7s, opacity 0.35s linear 0s;
+	transition: all 0.35s linear 0.7s, opacity 0.35s linear 0s;
 	
 	@media (max-width: $screen-sm - 1) {
 		max-width: 240px;
 		margin-top: 10px;
 		margin-bottom: 10px;
 	}
+	
+	@include opacity(1);
+	
+	&:hover {
+		@include opacity(0.75);
+	}
+	
 
 }
 

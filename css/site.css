@@ -1727,7 +1727,15 @@ p, h1, h2, h3, h4, h5, h6 {
     height: 100%;
     content: " ";
     background: transparent;
-    background: rgba(0, 0, 0, 0.5); }
+    background: rgba(0, 0, 0, 0.5);
+    -webkit-transition: background 0.7s linear 0.5s;
+    -moz-transition: background 0.7s linear 0.5s;
+    -ms-transition: background 0.7s linear 0.5s;
+    -o-transition: background 0.7s linear 0.5s;
+    transition: background 0.7s linear 0.5s; }
+
+.loading .slide-item:before {
+  background: black; }
 
 .slide-icor {
   background-image: url("../images/bg_icor.jpg"); }
@@ -1789,20 +1797,29 @@ p, h1, h2, h3, h4, h5, h6 {
   transition: all 0s linear; }
 
 .slide-logo {
+  display: block;
   background: transparent url() no-repeat center center/contain;
   max-width: 400px;
   margin: 25px auto 25px auto;
   position: relative;
-  -webkit-transition: all 0.35s linear 0.7s;
-  -moz-transition: all 0.35s linear 0.7s;
-  -ms-transition: all 0.35s linear 0.7s;
-  -o-transition: all 0.35s linear 0.7s;
-  transition: all 0.35s linear 0.7s; }
+  -webkit-transition: all 0.35s linear 0.7s, opacity 0.35s linear 0s;
+  -moz-transition: all 0.35s linear 0.7s, opacity 0.35s linear 0s;
+  -ms-transition: all 0.35s linear 0.7s, opacity 0.35s linear 0s;
+  /* IE10 is actually unprefixed */
+  -o-transition: all 0.35s linear 0.7s, opacity 0.35s linear 0s;
+  transition: all 0.35s linear 0.7s, opacity 0.35s linear 0s;
+  -khtml-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1; }
   @media (max-width: 767px) {
     .slide-logo {
       max-width: 240px;
       margin-top: 10px;
       margin-bottom: 10px; } }
+  .slide-logo:hover {
+    -khtml-opacity: 0.75;
+    -moz-opacity: 0.75;
+    opacity: 0.75; }
 
 .slide-logo-icor {
   background-image: url("../images/header_logo_icor.png");
@@ -2081,6 +2098,20 @@ p, h1, h2, h3, h4, h5, h6 {
   .slide-expanded .slide-tbl > * > *.slide-cell-titles {
     padding-top: 105px; } }
 
+a.list-icon {
+  -khtml-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+  -webkit-transition: 0.35s all;
+  -moz-transition: 0.35s all;
+  -ms-transition: 0.35s all;
+  -o-transition: 0.35s all;
+  transition: 0.35s all; }
+  a.list-icon:hover {
+    -khtml-opacity: 0.8;
+    -moz-opacity: 0.8;
+    opacity: 0.8; }
+
 .section-values .list-icon {
   margin-bottom: 10px; }
 @media (max-width: 991px) {
@@ -2122,6 +2153,8 @@ p, h1, h2, h3, h4, h5, h6 {
 @media (max-width: 991px) {
   .section-companies .list-icon {
     margin-bottom: 10px; } }
+.section-companies .list-unstyled a {
+  color: inherit !important; }
 @media (max-width: 991px) {
   .section-companies .list-unstyled {
     margin-bottom: -45px; }

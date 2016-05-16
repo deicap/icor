@@ -1,5 +1,5 @@
 <?php require ('engine.php') ?><!DOCTYPE html>
-<html lang="<?php echo $_lang ?>">
+<html class="loading" lang="<?php echo $_lang ?>">
 <head>
 
 	<title><?php echo $_page_meta['meta_title'] ?></title>

@@ -50,19 +50,19 @@
 		'lt' => array(
 		
 			'/' => array(
-				'meta_title' => 'Icor Pradinis puslapis'
+				'meta_title' => 'ICOR įmonių grupė'
 			),
 			
-			'test' => array(
-				'meta_title' => 'Icor Test page'
-			)
+			//'test' => array(
+			//	'meta_title' => 'Test page'
+			//)
 			
 		),
 		
 		'en' => array(
 		
 			'/' => array(
-				'meta_title' => 'Icor Homepage'
+				'meta_title' => 'ICOR corporate group'
 			)
 			
 		),
@@ -70,7 +70,7 @@
 		'ru' => array(
 		
 			'/' => array(
-				'meta_title' => 'Icor rusiškai'
+				'meta_title' => 'ICOR - групa предприятий'
 			)
 			
 		),

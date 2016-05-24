@@ -35,7 +35,7 @@
 							</span>
 							<span class="col-xs-6 col-md-12">
 								<strong class="center-block">Darbuotojai</strong>
-								<span class="center-block"><span class="text-primary text-value">6 400</span></span>
+								<span class="center-block"><span class="text-primary text-value">6 800</span></span>
 							</span>
 						</span>
 					</li>
@@ -68,7 +68,9 @@
 		
 			<div class="container-fixed container-fixed-narrow">
 		
-				<p class="text-center text-h3">Savo veiklą pradėjusi 1990 metais, šiandien „Icor“ yra viena didžiausių įmonių grupių regione. Grupės įmonės sėkmingai dirba komunalinių paslaugų, pramonės ir energetikos, prekybos naftos produktais, nekilnojamo turto plėtros ir pramogų srityse.</p>
+				<p class="text-center text-h3">
+					Savo veiklą pradėjusi 1990 metais, šiandien ICOR yra viena didžiausių įmonių grupių regione. Bendrovės sėkmingai dirba komunalinių paslaugų, pramonės ir energetikos, prekybos naftos produktais, nekilnojamo turto plėtros srityse. 
+				</p>
 		
 			</div>
 			
@@ -82,32 +84,32 @@
 		
 				<h2>ICOR <s></s>veiklos sritys</h2>
 				
-				<p>Įmonių grupei „ICOR“ priklauso apie 70 įmonių, kurios dirba keturiose pagrindinėse veiklos srityse. Tai:</p>
+				<p>Įmonių grupei ICOR priklauso apie 70 įmonių, kurios dirba keturiose pagrindinėse veiklos srityse. Tai:</p>
 				
 				<ul class="list-unstyled row">
 					
 					<li class="text-center col-xs-12 col-sm-6 col-md-3">
-						<span class="center-block"><a class="list-icon img-icon-cityservice" href="http://www.lrytas.lt/"></a></span>
-						<strong class="center-block"><a href="/">Komunalinės paslaugos</a></strong>
-						<span class="center-block text-muted"><a href="/">„City Service“</a></span>
+						<span class="center-block"><a class="list-icon img-icon-cityservice" href="http://www.cityservice.lt/" target="_blank"></a></span>
+						<strong class="center-block"><a href="http://www.cityservice.lt/" target="_blank">Komunalinės paslaugos</a></strong>
+						<span class="center-block text-muted"><a href="http://www.cityservice.lt/" target="_blank">„City Service“</a></span>
 					</li>
 					
 					<li class="text-center col-xs-12 col-sm-6 col-md-3">
-						<span class="center-block"><a class="list-icon img-icon-axioma" href="http://www.lrytas.lt/"></a></span>
-						<strong class="center-block"><a href="/">Pramonė ir energetika</a></strong>
-						<span class="center-block text-muted"><a href="/">„Axis Industries“</a></span>
+						<span class="center-block"><a class="list-icon img-icon-axioma" href="http://www.axis.lt/" target="_blank"></a></span>
+						<strong class="center-block"><a href="http://www.axis.lt/ target="_blank">Pramonė ir energetika</a></strong>
+						<span class="center-block text-muted"><a href="http://www.axis.lt/" target="_blank">„Axis Industries“</a></span>
 					</li>
 					
 					<li class="text-center col-xs-12 col-sm-6 col-md-3">
-						<span class="center-block"><a class="list-icon img-icon-realco" href="http://www.lrytas.lt/"></a></span>
-						<strong class="center-block"><a href="/">Nekilnojamasis turtas</a></strong>
-						<span class="center-block text-muted"><a href="/">„Realco“</a></span>
+						<span class="center-block"><a class="list-icon img-icon-realco" href="http://www.realco.lt/" target="_blank"></a></span>
+						<strong class="center-block"><a href="http://www.realco.lt/" target="_blank">Nekilnojamasis turtas</a></strong>
+						<span class="center-block text-muted"><a href="http://www.realco.lt/" target="_blank">„Realco“</a></span>
 					</li>
 					
 					<li class="text-center col-xs-12 col-sm-6 col-md-3">
-						<span class="center-block"><a class="list-icon img-icon-oilead" href="http://www.lrytas.lt/"></a></span>
-						<strong class="center-block"><a href="/">Nafta</a></strong>
-						<span class="center-block text-muted"><a href="/">OiLead</a></span>
+						<span class="center-block"><a class="list-icon img-icon-oilead" href="http://www.oilead.lt/" target="_blank"></a></span>
+						<strong class="center-block"> <a href="http://www.oilead.lt/" target="_blank"> Nafta ir jos produktai</a> </strong>
+						<span class="center-block text-muted"><a href="http://www.oilead.lt/" target="_blank"> OiLead</a></span>
 					</li>
 					
 				</ul>
@@ -124,7 +126,7 @@
 			
 				<h2>ICOR veiklos <s></s>geograﬁja</h2>
 				
-				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat </p>
+				<p>Grupės įmonės veikia trijuose žemynuose, daugiau nei 40 šalių.</p>
 				
 				<div class="map-image">
 					<img class="img-responsive" src="/images/map_1x.jpg" srcset="/images/map_1x.jpg 1x, /images/map_2x.jpg 2x" alt="" />

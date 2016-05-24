@@ -22,7 +22,7 @@
 						<div>
 							<div class="slide-cell-titles">
 						
-								<a href="http://www.delfi.lt/" class="slide-logo slide-logo-icor"></a>
+								<div class="slide-logo slide-logo-icor"></div>
 								<div class="slide-slogan">Pralenkti rytojų. Šiandien.</div>
 						
 							</div>
@@ -63,7 +63,7 @@
 							<div class="slide-cell-titles">
 						
 								<div class="slide-subtitle">ICOR grupės įmonė</div>
-								<a href="http://www.delfi.lt/" class="slide-logo slide-logo-cityservice"></a>
+								<a href="http://www.cityservice.lt/" class="slide-logo slide-logo-cityservice"></a>
 								<div class="slide-slogan">In Service Of Your Property</div>
 						
 							</div>
@@ -89,7 +89,7 @@
 															<strong class="center-block">Apyvarta</strong>
 															<span class="center-block">
 																<span class="trow trow-vmiddle">
-																	<span class="text-value">166</span>
+																	<span class="text-value">167</span>
 																	<span class="text-unit">mln<br />EUR</span>
 																</span>
 															</span>
@@ -105,7 +105,7 @@
 														</span>
 														<span class="col-xs-6 col-md-12">
 															<strong class="center-block">Darbuotojai</strong>
-															<span class="center-block"><span class="text-value">2 733</span></span>
+															<span class="center-block"><span class="text-value">5 700</span></span>
 														</span>
 													</span>
 												</li>
@@ -120,7 +120,7 @@
 															<span class="center-block">
 																<span class="trow trow-vmiddle">
 																	<span class="text-value">5</span>
-																	<span class="text-unit">šalių</span>
+																	<span class="text-unit">šalys</span>
 																</span>
 															</span>
 														</span>
@@ -131,9 +131,7 @@
 										</div>
 									
 									
-										<p>„City Service“ valdo viena didžiausiu pastatu ukio valdymo ir integruotu komunaliniu
-											paslaugu imoniu grupe Europoje. Grupe vykdo pletra Europos rinkose isigydama
-											perspektyvias privacias ar valstybes valdomas kompanijas.
+										<p>„City Service“ valdo vieną didžiausių pastatų ūkio valdymo ir integruotų komunalinių paslaugų įmonių grupę Europoje. Grupė vykdo plėtrą Europos rinkose įsigydama perspektyvias privačias ar valstybės valdomas kompanijas. 
 										</p>
 										
 									</div>
@@ -148,7 +146,7 @@
 						<div class="slide-cell-nav">
 							
 							<a data-action="expand-slide" class="slide-item-btn slide-item-btn-toggler" href="/"><span></span><span></span></a>
-							<a class="slide-item-btn" target="_blank" href="/">Įmonės puslapis</a>
+							<a class="slide-item-btn" target="_blank" href="http://www.cityservice.lt/">Įmonės puslapis</a>
 							
 						</div>
 					</div>
@@ -180,7 +178,7 @@
 							<div class="slide-cell-titles">
 						
 								<div class="slide-subtitle">ICOR grupės įmonė</div>
-								<a href="http://www.delfi.lt/" class="slide-logo slide-logo-axioma"></a>
+								<a href="http://www.axis.lt/" class="slide-logo slide-logo-axioma"></a>
 								<div class="slide-slogan">Produktai, irodę savo efektyvumą</div>
 						
 							</div>
@@ -206,7 +204,7 @@
 															<strong class="center-block">Apyvarta</strong>
 															<span class="center-block">
 																<span class="trow trow-vmiddle">
-																	<span class="text-value">131</span>
+																	<span class="text-value">129</span>
 																	<span class="text-unit">mln<br />EUR</span>
 																</span>
 															</span>
@@ -222,7 +220,12 @@
 														</span>
 														<span class="col-xs-6 col-md-12">
 															<strong class="center-block">Darbuotojai</strong>
-															<span class="center-block"><span class="text-value">1 000</span></span>
+															<span class="center-block">
+																<span class="trow trow-vmiddle">
+																	<span class="text-unit">virš</span>
+																	<span class="text-value">1000</span>
+																</span>
+															</span>
 														</span>
 													</span>
 												</li>
@@ -248,9 +251,7 @@
 										</div>
 									
 									
-										<p>„Axis Industries“ yra didžiausia inžinerinius produktus ir sprendimus miestui,
-											pramonei bei energetikai kurianti, gaminanti ir igyvendinanti imoniu grupe
-											Lietuvoje. Grupe sekmingai dirba jau daugiau nei 20 metu.
+										<p>„Axis Industries“ yra didžiausia Lietuvos įmonių grupė, kurianti, gaminanti ir įgyvendinanti inžinerinius produktus ir sprendimus miestui, pramonei bei energetikai. 2014 metais prekės ženklas AXIOMA sujungė grupės įmones ir jų kuriamus produktus XILO, ENCO, QALCO ir SOLVO į vieną šeimą. Grupė sėkmingai dirba jau daugiau nei 20 metų.
 										</p>
 										
 									</div>
@@ -265,7 +266,7 @@
 						<div class="slide-cell-nav">
 							
 							<a data-action="expand-slide" class="slide-item-btn slide-item-btn-toggler" href="/"><span></span><span></span></a>
-							<a class="slide-item-btn" target="_blank" href="/">Įmonės puslapis</a>
+							<a class="slide-item-btn" target="_blank" href="http://www.axis.lt/">Įmonės puslapis</a>
 							
 						</div>
 					</div>
@@ -294,7 +295,7 @@
 							<div class="slide-cell-titles">
 						
 								<div class="slide-subtitle">ICOR grupės įmonė</div>
-								<a href="http://www.delfi.lt/"  class="slide-logo slide-logo-realco"></a>
+								<a href="http://www.realco.lt/"  class="slide-logo slide-logo-realco"></a>
 								<div class="slide-slogan">Patikimas. Visada.</div>
 						
 							</div>
@@ -336,7 +337,7 @@
 														</span>
 														<span class="col-xs-6 col-md-12">
 															<strong class="center-block">Darbuotojai</strong>
-															<span class="center-block"><span class="text-value">40</span></span>
+															<span class="center-block"><span class="text-value">15</span></span>
 														</span>
 													</span>
 												</li>
@@ -357,9 +358,7 @@
 										</div>
 									
 									
-										<p>„Realco“ – nekilnojamojo turto projektu vystymo bendrove Lietuvoje, veikianti nuo
-										2006 metu. Imone sekmingai igyvendina išskirtinius nekilnojamojo turto projektus
-										komerciniame, prekybos ir gyvenamajame segmentuose.
+										<p>„Realco“ – nekilnojamojo turto projektų vystymo bendrovė Lietuvoje, veikianti nuo 2006 metų.  Įmonė sėkmingai įgyvendina išskirtinius nekilnojamojo turto projektus komerciniame, prekybos ir gyvenamajame segmentuose.
 										</p>
 										
 									</div>
@@ -374,7 +373,7 @@
 						<div class="slide-cell-nav">
 							
 							<a data-action="expand-slide" class="slide-item-btn slide-item-btn-toggler" href="/"><span></span><span></span></a>
-							<a class="slide-item-btn" target="_blank" href="/">Įmonės puslapis</a>
+							<a class="slide-item-btn" target="_blank" href="http://www.realco.lt/">Įmonės puslapis</a>
 							
 						</div>
 					</div>
@@ -405,7 +404,7 @@
 							<div class="slide-cell-titles">
 						
 								<div class="slide-subtitle">ICOR grupės įmonė</div>
-								<a href="http://www.delfi.lt/" class="slide-logo slide-logo-oilead"></a>
+								<a href="http://www.oilead.lt/" class="slide-logo slide-logo-oilead" target="_blank"></a>
 								<div class="slide-slogan">Tarptautinė prekyba naftos produktais</div>
 						
 							</div>
@@ -462,7 +461,7 @@
 															<span class="center-block">
 																<span class="trow trow-vmiddle">
 																	<span class="text-value">5</span>
-																	<span class="text-unit">šalių</span>
+																	<span class="text-unit">šalys</span>
 																</span>
 															</span>
 														</span>
@@ -473,9 +472,7 @@
 										</div>
 									
 									
-										<p>„Oilead“ – viena sekmingiausiu kompaniju Lietuvoje, vystanciu prekybos naftos
-											produktais veikla. Kompanija per valdoma naftos produktu terminala Marijampoleje
-											eksportuoja naftos produktus i kitas Europos Sajungos šalis.
+										<p>„Oilead“ – viena sėkmingiausių kompanijų Lietuvoje, vystančių prekybos naftos produktais veiklą. Bendrovė per valdomą naftos produktų terminalą Marijampolėje eksportuoja naftos produktus į kitas Europos Sąjungos šalis.
 										</p>
 										
 									</div>
@@ -490,7 +487,7 @@
 						<div class="slide-cell-nav">
 							
 							<a data-action="expand-slide" class="slide-item-btn slide-item-btn-toggler" href="/"><span></span><span></span></a>
-							<a class="slide-item-btn" target="_blank" href="/">Įmonės puslapis</a>
+							<a href="http://www.oilead.lt/"  class="slide-item-btn" target="_blank" href="/">Įmonės puslapis</a>
 							
 						</div>
 					</div>

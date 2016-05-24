@@ -16,8 +16,16 @@
 	<script src="/js/jquery.flexslider-min.js"></script>
 	<script src="/js/site-scripts.js"></script>
 
-	<script src="//use.typekit.net/pph1ico.js"></script>
-	<script>try{Typekit.load({ async: true });}catch(e){}</script>
+	<?php if ($_lang != 'ru') { ?>
+	
+		<script src="//use.typekit.net/pph1ico.js"></script>
+		<script>try{Typekit.load({ async: true });}catch(e){}</script>
+		
+	<?php } else { ?>
+		
+		<link rel="stylesheet" href="/css/fonts-ru.css">
+		
+	<?php } ?>
 	
 </head>
 <body>
